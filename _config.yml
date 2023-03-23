@@ -28,8 +28,9 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 # code highlighter theme
-highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
-highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
+# https://github.com/brazacz/rouge-themes
+highlight_theme_light: tulip   # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: thankful_eyes    # https://github.com/jwarby/jekyll-pygments-themes
 
 # repo color theme
 repo_theme_light: nightowl      # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
@@ -150,7 +151,7 @@ giscus:
   lang: en
 
 # Disqus comments (DEPRECATED)
-disqus_shortname: al-folio # put your disqus shortname
+disqus_shortname: # put your disqus shortname
 # https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 # External sources.
@@ -191,7 +192,7 @@ kramdown:
     span:
       line_numbers: false
     block:
-      line_numbers: false
+      line_numbers: true
       start_line: 1
 
 # Includes & excludes
