@@ -14,19 +14,19 @@
     - title: MS, Artificial Intelligence
       institution: Johns Hopkins University
       year: 2024
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
+      #   - title: Description 3.
+      #     contents:
+      #       - Sub-description 1.
+      #       - Sub-description 2.
     - title: BS, Biochemistry & Molecular Biology
       institution: University of California, Santa Barbara
       year: 2015 - 2019
-      description:
-        - Description 1.
-        - Description 2.
+      # description:
+      #   - Description 1.
+      #   - Description 2.
 
 - title: Experience
   type: time_table
