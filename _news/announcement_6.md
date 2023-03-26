@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Affected by tech layoffs at AWE Technologies :sad: Thanks for the good times and for teaching me so much!
+Affected by tech layoffs at AWE Technologies :pensive: Thanks for the good times and for teaching me so much!
