@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>MS Candidate at Johns Hopkins University Engineering</a>
 
 profile:
   align: right
@@ -16,7 +16,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Meet Shakuntala, an early career data scientist with a passion for artificial intelligence and biology. Shakuntala's journey into the world of data science began during her undergraduate studies, where she developed an interest in using data-driven methods to solve complex problems through bioinformatics research. Shakuntala continues to explore the potential of AI and machine learning in the field of biomedical research, and she is dedicated to using her skills to contribute to scientific advancements. She is especially interested in using AI to develop new approaches to personalized medicine. 
+Meet Shakuntala, an early career data scientist with a passion for artificial intelligence and biology. Shakuntala's journey into the world of data science began during her undergraduate studies, where she developed an interest in using data-driven methods to solve complex problems through bioinformatics research. Shakuntala continues to explore the potential of AI and machine learning in the field of biomedical research, and she is dedicated to using her skills to contribute to scientific advancements. She is especially interested in using AI to develop new approaches to personalized medicine.
 
 Shakuntala's expertise in data analysis, machine learning, and biology makes her a valuable asset to any team looking to tackle the complex problems in these fields. With a strong work ethic and a commitment to innovation, Shakuntala plans to catalyze change and progress at the intersection of medicine and artificial intelligence. 
 
