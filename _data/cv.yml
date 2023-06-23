@@ -3,8 +3,10 @@
   contents:
     - name: Full Name
       value: Shakuntala Mitra
-    - name: Date of Birth
-      value: 10th November 1997
+    - name: Email
+      value: shakuntala.mitra@gmail.com
+    - name: Professional Interests
+      value: Bioinformatics, Natural Language Processing, Computer Vision, Open Source Data Science
     - name: Languages
       value: English, Bengali, Hindi, Japanese
 
@@ -13,7 +15,7 @@
   contents:
     - title: MS, Artificial Intelligence
       institution: Johns Hopkins University
-      year: 2024 - 2027
+      year: 2023 - 2028
       # description:
       #   - Description 1.
       #   - Description 2.
@@ -31,23 +33,45 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Associate Data Scientist
-      institution: AWE Technologies, LLC.
-      year: 1933 - 1955
+    - title: Quality Control Analyst II
+      company: Vericel Corporation
+      year: Dec 2022 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    # - title: Visiting Professor
-    #   institution: California Institute of Technology, Pasadena, California, US
-    #   year: 1933
-    #   description:
-    #     - Description 1.
-    #     - Description 2.
+        - Independently perform quantitative data analysis for molecular biology assays and cell culture assays
+        - Take ownership of updating, restructuring, and maintaining cell culture assay databases
+        - Collaborate with R&D on a project to compile and analyze assay data needed to complete Technical Reports
+    - title: Associate Data Scientist
+      company: AWE Technologies, LLC.
+      year: Sep 2021 - July 2022
+      description:
+        - Developed machine learning algorithms and neural networks for anomaly detection using Python, Tensorflow, and PyTorch
+        - Established a scalable analysis pipeline by integrating AWS tools with a custom PostgreSQL database during internal algorithm development phase of major client project
+        - Compiled data visualizations and feature extraction into official progress reports to communicate key results to primary stakeholders
+    - title: Quality Control Analyst II
+      institution: Minaris Regenerative Medicine
+      year: Sep 2020 - Sep 2021
+      description:
+        - Supervised cross-functional team as QC project leader and SME for one major commercial client
+        - Enabled a client's transition from FDA Phase I to Phase II Clinical Trials by executing stability studies
+        - Improved processing time by 33% by revising technical documents (SOPs, WIs) for multiple assays
 
+- title: Skills
+  type: list
+  contents: 
+    - <u>Programming Languages:</u> Python, SQL, R
+    - <u>Machine Learning Frameworks:</u> PyTorch, Tensorflow, Keras, OpenCV, Scikit-Learn
+    - <u>Platforms:</u> AWS, Docker, Jupyter Notebook, Flask, Heroku, Linux, MS Excel
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Data Analytics Professional Certification
+      organization: Grow with Google
+      year: Nov 2022 - Dec 2022
+    - title: Data Science Career Track Certification
+      track: Advanced Machine Learning
+      organization: Springboard School of Data
+      year: Sep 2020 - Dec 2021
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
     #   year: 1917-1933
@@ -91,7 +115,7 @@
 #         - Description 1.
 #         - Description 2.
 
-# - title: Other Interests
-#   type: list
-#   contents:
-#     - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+- title: Other Interests
+  type: list
+  contents:
+    - <u>Hobbies:</u> Circus and Aerial Arts, Video Games
