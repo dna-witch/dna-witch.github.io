@@ -16,9 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Meet Shakuntala, an early career data scientist with a passion for artificial intelligence and biology. Shakuntala's journey into the world of data science began during her undergraduate studies, where she developed an interest in using data-driven methods to solve complex problems through bioinformatics research. Shakuntala continues to explore the potential of AI and machine learning in the field of biomedical research, and she is dedicated to using her skills to contribute to scientific advancements. She is especially interested in using AI to develop new approaches to personalized medicine.
+Hi, I'm Shakuntala! I'm an early career data scientist with a passion for artificial intelligence and biology. My journey into the world of data science began during my undergraduate studies, where I sought out ways to use data to answer complex problems in biological research and found a second home in the data science community. Since then, I have been working in the biotech industry on CAR-T cell immunotherapies, sports medicine, and humanitarian use devices. 
 
-Shakuntala's expertise in data analysis, machine learning, and biology makes her a valuable asset to any team looking to tackle the complex problems in these fields. With a strong work ethic and a commitment to innovation, Shakuntala plans to catalyze change and progress at the intersection of medicine and artificial intelligence. 
+I recently began my Masters studies in Artificial Intelligence at Johns Hopkins University. As a neurodivergent woman of color, I am extremely passionate about supporting diversity in tech and increasing access to scientific knowledge through open science/open data science. As I progress through my Masters, I plan to share more about my experiences and how I've been participating in open source communities.
+
+I am excited to use this next step in my career to combine my domain knowledge and hands-on lab experience with my data science skills. I am most interested in exploring the potential of AI to model biological systems and contributing to biomedical advancements, specifically for autoimmune disorders, personalized medicine, and drug discovery. My dream is to one day be engaging with these issues on a national, or even global, level. 
 
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
