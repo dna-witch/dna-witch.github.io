@@ -18,7 +18,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hello, I'm Shakuntala! I'm an early career data scientist fueled by my passion for artificial intelligence and biology. I first delved into the world of data science to learn how to use data to tackle challenges in biological research. # "I first delved into the data science community..." ? 
 
-I have been working in the biotech industry for 4 years, contributing to CAR-T cell immunotherapies, sports medicine, and humanitarian use devices. As a Masters student in Artificial Intelligence at Johns Hopkins University, I'm making an exciting career transition from being a bench scientist to a data scientist and finding new ways to apply my skills. My primary focus is leveraging AI for personalized medicine and advancing drug discovery.
+I have been working in the biotech industry for 4 years, contributing to CAR-T cell immunotherapies, sports medicine, and humanitarian use devices. As a Masters student in Artificial Intelligence at Johns Hopkins University, I'm making an exciting career transition from being a bench scientist to a data scientist. My primary focus is leveraging AI for personalized medicine and advancing drug discovery.
 
 I am deeply committed to fostering diversity in the tech field and promoting wider access to scientific knowledge through open science and open data science initiatives. As I progress through my Masters program, I look forward to sharing my experiences and active involvement within open source communities.
 
