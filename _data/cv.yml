@@ -66,11 +66,11 @@
   type: time_table
   contents:
     - title: Data Analytics Professional Certification
-      organization: Grow with Google
+      institution: Grow with Google
       year: Nov 2022 - Dec 2022
     - title: Data Science Career Track Certification
-      track: Advanced Machine Learning
-      organization: Springboard School of Data
+      subtitle: Advanced Machine Learning
+      institution: Springboard School of Data
       year: Sep 2020 - Dec 2021
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
