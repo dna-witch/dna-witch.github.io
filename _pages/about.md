@@ -16,10 +16,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I'm Shakuntala! I'm an early career data scientist with a passion for artificial intelligence and biology. My journey into the world of data science began during my undergraduate studies, where I sought out ways to use data to answer complex problems in biological research and found a second home in the data science community. Since then, I have been working in the biotech industry on CAR-T cell immunotherapies, sports medicine, and humanitarian use devices. I am most interested in using AI for personalized medicine, and drug discovery. 
+Hello, I'm Shakuntala! I'm an early career data scientist fueled by my passion for artificial intelligence and biology. I first delved into the world of data science to learn how to use data to tackle challenges in biological research.
 
-I recently began my Masters studies in Artificial Intelligence at Johns Hopkins University. As a neurodivergent woman of color, I am extremely passionate about supporting diversity in tech and increasing access to scientific knowledge through open science/open data science. As I progress through my Masters, I plan to share more about my experiences and how I've been participating in open source communities.
+I have been working in the biotech industry for 4 years, contributing to CAR-T cell immunotherapies, sports medicine, and humanitarian use devices. As a Masters student in Artificial Intelligence at Johns Hopkins University, I'm making an exciting career transition from being a bench scientist to a data scientist and finding new ways to apply my skills. My primary focus is leveraging AI for personalized medicine and advancing drug discovery.
 
+I am deeply committed to fostering diversity in the tech field and promoting wider access to scientific knowledge through open science and open data science initiatives. As I progress through my Masters program, I look forward to sharing my experiences and active involvement within open source communities.
 
 <!-- Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
