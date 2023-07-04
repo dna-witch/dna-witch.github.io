@@ -7,8 +7,8 @@
       value: shakuntala.mitra@gmail.com
     - name: Professional Interests
       value: Bioinformatics, Natural Language Processing, Computer Vision, Open Source Data Science
-    - name: Languages
-      value: English, Bengali, Hindi, Japanese
+    - name: Spoken Languages
+      value: English, Bengali, Japanese, Hindi
 
 - title: Education
   type: time_table
@@ -30,7 +30,26 @@
       #   - Description 1.
       #   - Description 2.
 
-- title: Experience
+- title: Skills
+  type: list
+  contents: 
+    - <u>Programming Languages:</u> Python, SQL, R
+    - <u>Tools and Frameworks:</u> NumPy, SciPy, Pandas, Matplotlib, Plotly
+    - <u>Machine Learning:</u> PyTorch, Tensorflow, Keras, OpenCV, Scikit-Learn, Spark ML
+    - <u>Platforms:</u> Amazon Web Services, Docker, Jupyter, Conda, Flask, Linux, RStudio, MS Excel
+
+- title: Certifications
+  type: time_table
+  contents:
+    - title: Data Analytics Professional Certification
+      institution: Grow with Google
+      year: Nov 2022 - Dec 2022
+    - title: Data Science Career Track Certification
+      # subtitle: Advanced Machine Learning
+      institution: Springboard, School of Data
+      year: Sep 2020 - Dec 2021
+
+- title: Relevant Experience
   type: time_table
   contents:
     - title: Quality Control Analyst II
@@ -54,43 +73,10 @@
         - Supervised cross-functional team as QC project leader and SME for one major commercial client
         - Enabled a client's transition from FDA Phase I to Phase II Clinical Trials by executing stability studies
         - Improved processing time by 33% by revising technical documents (SOPs, WIs) for multiple assays
+    - title: Quality Control Analyst II
+      institution: Minaris Regenerative Medicine
+      year: Sep 2020 - Sep 2021
 
-- title: Skills
-  type: list
-  contents: 
-    - <u>Programming Languages:</u> Python, SQL, R
-    - <u>Machine Learning Frameworks:</u> PyTorch, Tensorflow, Keras, OpenCV, Scikit-Learn
-    - <u>Platforms:</u> AWS, Docker, Jupyter Notebook, Flask, Heroku, Linux, MS Excel
-
-- title: Education
-  type: time_table
-  contents:
-    - title: MS, Artificial Intelligence
-      institution: Johns Hopkins University
-      year: 2023 - 2028
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-      #   - title: Description 3.
-      #     contents:
-      #       - Sub-description 1.
-      #       - Sub-description 2.
-    - title: BS, Biochemistry & Molecular Biology
-      institution: University of California, Santa Barbara
-      year: 2015 - 2019
-      # description:
-      #   - Description 1.
-      #   - Description 2.
-- title: Certifications
-  type: time_table
-  contents:
-    - title: Data Analytics Professional Certification
-      institution: Grow with Google
-      year: Nov 2022 - Dec 2022
-    - title: Data Science Career Track Certification
-      # subtitle: Advanced Machine Learning
-      institution: Springboard School of Data
-      year: Sep 2020 - Dec 2021
     # - title: Director
     #   institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
     #   year: 1917-1933
